@@ -1,11 +1,11 @@
 # Site settings
 author: Amanda Rodgers
-title: 
+title: Why I Chose To Learn Programming
 header-img: img/home-bg.png
 email: aarodgerswork@gmail.com
 copyright_name: Amanda Rodgers
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Programming Journey So Far
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AARodgers
