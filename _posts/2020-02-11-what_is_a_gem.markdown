@@ -6,7 +6,8 @@ permalink:  what_is_a_gem
 ---
 
 
-![]](http://unsplash.com/photos/dpQqhZRyF7w)
+
+![](https://images.unsplash.com/photo-1516623957853-0f9e4b609d23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80)
 
 
 If you are new to computer programming, starting a bootcamp or have actually ask yourself what a gem is, this article is for you. If you are like me, when you hear the word gem, your brain might automatically think about a beautiful, shiny rock. We must ‘code switch’, pun intended, to think about computer programming. 
